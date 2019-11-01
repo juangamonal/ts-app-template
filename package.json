@@ -26,5 +26,5 @@
     "typedoc": "^0.15.0",
     "typescript": "^3.6.4"
   },
-  "repository": "github:juangamonal/repo"
+  "repository": "github:juangamonal/ts-app-template"
 }
