@@ -17,7 +17,7 @@ A simple TypeScript application template
 ## Instalation
 
 ```sh
-git clone https://github.com/juangamonal/ts-application-template app-name
+git clone https://github.com/juangamonal/ts-app-template app-name
 cd app-name
 npm install     # or yarn install
 ```
